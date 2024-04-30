@@ -1,0 +1,8 @@
+{
+    "api-key" : "your-api-key",
+    "proxy" : "127.0.0.1:80",
+    "model" : "gpt-4",
+    "store-path" : "./data",
+    "feature" : "请使用中文进行回复",
+    "name" : "elysia"
+}
